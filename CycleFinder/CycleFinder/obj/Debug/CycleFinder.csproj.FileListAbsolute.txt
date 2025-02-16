@@ -1,0 +1,7 @@
+C:\Users\bsata\source\repos\CycleFinder\CycleFinder\bin\Debug\CycleFinder.exe.config
+C:\Users\bsata\source\repos\CycleFinder\CycleFinder\bin\Debug\CycleFinder.exe
+C:\Users\bsata\source\repos\CycleFinder\CycleFinder\bin\Debug\CycleFinder.pdb
+C:\Users\bsata\source\repos\CycleFinder\CycleFinder\obj\Debug\CycleFinder.csproj.AssemblyReference.cache
+C:\Users\bsata\source\repos\CycleFinder\CycleFinder\obj\Debug\CycleFinder.csproj.CoreCompileInputs.cache
+C:\Users\bsata\source\repos\CycleFinder\CycleFinder\obj\Debug\CycleFinder.exe
+C:\Users\bsata\source\repos\CycleFinder\CycleFinder\obj\Debug\CycleFinder.pdb
